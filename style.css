@@ -52,3 +52,22 @@ main {
   word-wrap: break-word;
   text-shadow: 0.5rem 0.5rem 0.5rem black;
 }
+
+#fire {
+  background-color: red;
+  border: 0.3rem dashed red;
+}
+
+#water {
+  background-color: blue;
+  border: 0.5rem double blue;
+}
+
+#earth {
+  background-color: green;
+  border: 0.6rem groove green;
+}
+
+#fire , #water , #earth {
+  cursor: pointer;
+}
