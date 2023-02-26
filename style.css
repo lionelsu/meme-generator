@@ -36,8 +36,8 @@ main {
 }
 
 #meme-image {
-  width: 60rem;
-  height: 60rem;
+  width: 69rem;
+  height: 69rem;
 }
 
 #meme-text {
@@ -50,6 +50,5 @@ main {
   color: white;
   font-size: 3rem;
   word-wrap: break-word;
-  overflow: hidden;
   text-shadow: 0.5rem 0.5rem 0.5rem black;
 }
